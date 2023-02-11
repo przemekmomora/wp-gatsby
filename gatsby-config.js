@@ -5,7 +5,7 @@ require("dotenv").config({
 })
 
 module.exports = {
-  pathPrefix: "/wp-gatsby",
+  pathPrefix: `/wp-gatsby`,
   siteMetadata: {
     siteUrl: "https://wp-gatsby.kodooy.com",
     title: "Gatsby WordPress Homepage Starter",
